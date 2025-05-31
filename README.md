@@ -86,4 +86,3 @@ bob      // 27 is odd and divisible by 9
 Charlie  // 8 is even but not divisible by 7 or 9
 ```
 
-Let me know if you'd like a [flowchart](f), [annotated code](f), or [sample test run](f) to visualize the flow.
