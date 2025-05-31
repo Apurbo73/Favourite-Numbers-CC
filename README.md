@@ -1,6 +1,5 @@
 ﻿# Favourite-Numbers-CC
 
-This C++ program reads a number of test cases and, for each case, reads an integer `a` and prints a name based on certain divisibility conditions.
 
 ---
 
